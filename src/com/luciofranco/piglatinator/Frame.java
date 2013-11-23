@@ -42,7 +42,7 @@ public class Frame {
 		frame.getRootPane().setDefaultButton(b1);
 
 		frame.pack();
-		frame.setSize(295, 200);
+		frame.setSize(330, 200);
 		frame.setResizable(false);
 		frame.setVisible(true);
 	}

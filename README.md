@@ -1,6 +1,8 @@
-rain
+PigLatinator
 ====
 
-<b>What is Rain?</b>
+<b>What is PigLatinator?</b>
 
-Rain is a small game I am developing for fun from TheChernoProject's game development tutorials.
+PigLatinator is a small program that will translate any valid US English phrase into pig latin. It is all developed in Java. This program was an assignment for AP Computer Science that I extended to add a GUI.
+
+<b>Where can I download this?</b> 
