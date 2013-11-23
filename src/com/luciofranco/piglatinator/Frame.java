@@ -51,6 +51,9 @@ public class Frame {
 
 		b1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				if(t1.getText().equals(""))
+					l1.setText("Error: No string submited for translation");
+				else 
 				l1.setText(("<html><table><td align = 'center' width='" + 290
 						+ "'>" + pig.getPigLatinPhrase(t1.getText()) + "</td></table></html>"));
 			}
